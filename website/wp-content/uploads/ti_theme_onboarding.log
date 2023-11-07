@@ -1,0 +1,21 @@
+[11/Oct/2023:14:53:01] (I): WordPress Instance Info:
+[11/Oct/2023:14:53:01] (I): Home URL : http://localhost:8000
+[11/Oct/2023:14:53:01] (I): Site URL : http://localhost:8000
+[11/Oct/2023:14:53:01] (I): WordPress Version : 6.3.1
+[11/Oct/2023:14:53:01] (I): Onboarding Version : 1.2.2
+[11/Oct/2023:14:53:01] (I): Multisite : No
+[11/Oct/2023:14:53:01] (I): Server Info : PHP 8.1.2-1ubuntu2.13 Development Server
+[11/Oct/2023:14:53:01] (I): PHP Version : 8.1.2-1ubuntu2.13
+[11/Oct/2023:14:53:01] (I): HTTPS : No
+[11/Oct/2023:14:53:01] (I): PHP Max Execution Time : 30
+[11/Oct/2023:14:53:01] (I): PHP Max Input Vars : 1000
+[11/Oct/2023:14:53:01] (I): Max Upload Size : 8388608
+[11/Oct/2023:14:53:01] (I): Plugins:
+[11/Oct/2023:14:53:01] (I): [PLUGIN] Akismet Anti-Spam: Spam Protection : v5.2 (Automattic - Anti Spam Team)
+[11/Oct/2023:14:53:01] (I): [PLUGIN] Simple Custom CSS and JS : v3.44 (SilkyPress.com)
+[11/Oct/2023:14:53:01] (I): [PLUGIN] Duplicate Page : v4.5.3 (mndpsingh287)
+[11/Oct/2023:14:53:01] (I): [PLUGIN] Hello Dolly : v1.7.2 (Matt Mullenweg)
+[11/Oct/2023:14:53:01] (I): [PLUGIN] Image optimization service by Optimole : v3.10.0 (Optimole)
+[11/Oct/2023:14:53:01] (I): [PLUGIN] Otter – Page Builder Blocks &amp; Extensions for Gutenberg : v2.4.0 (ThemeIsle)
+[11/Oct/2023:14:53:01] (I): [PLUGIN] Templates Patterns Collection : v1.2.2 (ThemeIsle)
+[11/Oct/2023:14:53:01] (I): [PLUGIN] WPForms : v1.8.4 (WPForms)
